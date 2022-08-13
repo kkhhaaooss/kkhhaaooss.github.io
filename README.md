@@ -4,7 +4,7 @@
 
 * ✍️ I write fantasy, sci-fi, and horror fiction
 * 🧮 I do calculus for fun (really)
-* 💻 I code in:
-** Python
-** Java
-** PHP
+* 💻 I have coded/can code in:
+🐍 Python
+☕ Java
+❔ PHP
