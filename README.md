@@ -1,4 +1,4 @@
 # Hello! :wave:
 
-## About Me: :person_bald: 
+:person_bald:  ## About Me: 
 
