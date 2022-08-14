@@ -8,3 +8,7 @@
 🐍 Python
 ☕ Java
 ❔ PHP
+📜 Javascript
+🎯 Dart
+* Also: 🕸️ HTML 🦋 Flutter 📇 SQL
+* 😃 Pronouns: He/Him
